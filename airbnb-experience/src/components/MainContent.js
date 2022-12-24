@@ -12,6 +12,10 @@ export default function MainContent() {
             coverImge={elt.coverImg}
             price={elt.price}
             stats={elt.stats}
+            location={elt.location}
+            openSpots={elt.openSpots}
+
+
         />
         )
     })
