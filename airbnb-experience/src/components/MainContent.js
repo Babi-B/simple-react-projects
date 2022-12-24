@@ -21,7 +21,7 @@ export default function MainContent() {
     })
     return(
         <main className="mainContent">
-            <h4>Onlie Experiences</h4>
+            <h4>Online Experiences</h4>
             <p>Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.</p>
             <section className="card-section">
                 {cardElement}

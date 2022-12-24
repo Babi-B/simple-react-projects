@@ -58,7 +58,6 @@
 .ratings img {
   width: 14px;
   height: 14px;
-  position: absolute;
 }
 .ratings {
   color: #918E9B;
@@ -75,4 +74,12 @@
   letter-spacing: 2px;
   font-weight: 600;
   font-size: 10px;
+}
+
+.footer {
+  background-color: #FF5A5F;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  padding: var(--side-padding);
 }
