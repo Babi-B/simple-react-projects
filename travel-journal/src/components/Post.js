@@ -17,7 +17,6 @@ export default function Post(props) {
                     <p>{props.description}</p>
                 </div>
             </div>
-            <hr />
         </section>
     )
 }
